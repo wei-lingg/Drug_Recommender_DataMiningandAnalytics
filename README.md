@@ -1,6 +1,6 @@
 # Drug Recommender (Data Mining and Analytics)
 
-Dataset from: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+Dataset obtained from: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
 
 Solution:
 
