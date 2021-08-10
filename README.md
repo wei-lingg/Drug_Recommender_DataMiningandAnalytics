@@ -4,8 +4,9 @@
 
 **Solution**:
 
-- Predict Sentiment score of review and Classify the reviews based on Sentiments
-- Predict Ratings of each review on Test Data
+- Predict sentiment score of each review
+- Classify the reviews based on sentiments
+- Predict ratings of each review on test dataset
 - Determine overall score of each drug
 
 **Sentiment Analysis**: Vader and TextBlob
